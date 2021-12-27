@@ -115,5 +115,18 @@ URL builder link: [URL Builder](https://ga-dev-tools.web.app/campaign-url-builde
 - "Creative" is the Ad world's term for multimedia, such as images and videos.
 - "copy" and "creative" determines the click through rate of your ads. This
 
-
+## Ideation or steps to write ads
+- Identify the product's benefits and it's audience concerns.
+- Write a pitch addressing each 
+- Make the pitch concise and compelling
+- List out every concern that audience might have the
+- Articulate the problem, solution and benefits of the product
+- Highlight your differentiation
+- Ask a pressing Question - Ask questions that creates curiosity
+- Make value props to audiences 
+  - They should find it relatable and what they are looking for
+  - Add details relevant and important to themselves
+  - Powerful
+- Placing the product explanation at the beginning is better because readers skim the first few words of an Add
+- Always brainstorm value props and concerns
   
