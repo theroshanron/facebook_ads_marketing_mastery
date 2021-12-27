@@ -24,4 +24,14 @@
 * Create Facebook Ad account and install Facebook pixel on a dummy website
 * Create Custom Audience and Lookalike audiences
 * Create Facebook Ads and split testing Ads
-* 
+  
+* One website per facebook Ad account
+* One Facebook pixel per website per ad account
+* One Facebook pixel is connected to one Facebook Ad account
+* You can start with 1 million audience and target them
+
+### Create a Facebook Business Manager account
+* It's a Facebook tool that helps in organizing and managing your business. 
+  * Create/Manage Facebook Ad account or Facebook page 
+  * Add payment methods to your account
+  * Get reports and add employee access
