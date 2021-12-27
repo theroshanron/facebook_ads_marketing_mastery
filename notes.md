@@ -30,8 +30,32 @@
 * One Facebook pixel is connected to one Facebook Ad account
 * You can start with 1 million audience and target them
 
-### Create a Facebook Business Manager account
+## Create a Facebook Business Manager account
 * It's a Facebook tool that helps in organizing and managing your business. 
   * Create/Manage Facebook Ad account or Facebook page 
   * Add payment methods to your account
   * Get reports and add employee access
+
+## Ad campaign structure
+* Campaign - > Ad set -> ads
+* Create one campaign per product or product category
+* Ad sets are used to distinguish the campaign based on multiple valuable audience segments
+* Within an Ad ser, create one ad per combination of unique copy and imagery
+* Setup the pixel to see which ads are performing best 
+* Set the right budget which is enough that the ads can individually reach 3000-5000 impressions
+  * It is a significant sample size for cost-oer-click to stabilize
+* For each audience segment, create an Ad sets
+  * The more distinct Ads we have, the less frequently users on profile targeted channels see the same ads on repeat, so longer it takes for them to tire of our product experience
+* Monitor daily to check which Ad sets, Ad value props combinations are performing best
+* It's good to setting aside 10-15% of the budget for bi-weekly experiments to find better CPAs
+* Re-target your audience
+
+# Ad sets: Targeting
+* Countries split into three unofficial geographic tiers.
+  * Tier 1 are the most expensive countries to target 
+    * They are expensive because the audiences are more likely to buy higher priced goods online
+  * Tier 2 have the audience which are less likely to speak english and less likely to hve purchasing power online
+  * Tier 3, only target these countries if you already have the sales in these regions
+* Target the countries only which you are capable of servicing 
+* Better to target English speakers 
+* Target based on gender and age after some analysis and not initially 
