@@ -69,3 +69,13 @@
 ## Newsfeed Ad
 * Text and media have the concise sentences.
 * It contains images or a video as the creative
+* Videos often out-perform images ads
+  * Get to the point ASAP 
+  * Prioritize demo which shows the context of ads 
+  * Use closed captioning
+* Ad's headline appears below the Ad's creative headline
+* Add text in ad's image such as trusted by XYZ company
+* Ad UTM parameters to each of your ad to associate individually ad visitors with their long term on the site
+* Add a description to your Add url
+* Add CTA texts only if you need to such as "Learn more" or "Click to purchase"
+  
