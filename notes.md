@@ -80,3 +80,40 @@
 * Add CTA texts only if you need to such as "Learn more" or "Click to purchase"
   
 URL builder link: [URL Builder](https://ga-dev-tools.web.app/campaign-url-builder)
+
+## Monitoring Ads: Metrics
+* Customize columns in Ads manager 
+* Ad set nme
+* Amount spent 
+* Reach
+* Clicks
+* Frequency
+* CPM
+* Video percentage watched indicated the quality of the video and thumbnail
+* You need to wait until you have at least 3000 Reach per add to meaningfully assess the ads.
+
+### When to make new Ads?
+- Product changes
+- Cultural events
+- New multimedia 
+- New Ad units
+- New channels
+- Market and LPA migration
+  
+## Re-targeting
+- Re-targeting costs less than the prospecting conversions cost
+- Be prepared to spend perhaps 20% of the ad budget on re-targeting
+- Create a web traffic audience and narrow it with audience who spend the top 25% on the site
+- Create a 3 day exclusion audience to target the visitors from the last 90 days but not from the recent 3 days
+- Create a converted exclusion audience to exclude already converted audience
+- Include 50% watched video viewers from the top 25% on the site
+- Pitch them new and complimentary value props ads.
+
+## Making of an Ads
+- Remember the importance of text and "copy"
+- "copy" it is carefully crafted for a specific outcome such as selling a product or getting someone to click a button
+- "Creative" is the Ad world's term for multimedia, such as images and videos.
+- "copy" and "creative" determines the click through rate of your ads. This
+
+
+  
