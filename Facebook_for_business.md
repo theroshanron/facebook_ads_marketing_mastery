@@ -51,4 +51,17 @@
  - Detailed targeting
    - Target the competitors facebook page 
   
+  ## Facebook Ad targeting
+  - Hobbies and recent activities searches
+  - behaviors
+  - career or education
+  - income level
+  - Facebook pages the audience like
+
+  ### Always use A/B split testing to find out which type of Ad is converting the best with targeted audience 
+    - Test based on the conversion metrics such as below:
+      - Did people engage?
+      - Did people make a purchase?
+      - Did people opt for email list?
+  
 
