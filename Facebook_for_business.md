@@ -21,4 +21,34 @@
     - One facebook pixel per facebook page
     - One Facebook page per Ad account
   - This makes it easier to track separate ad results and also a requirement per facebook terms of service
-- 
+
+## Install Facebook Pixel on the website 
+- Required access of the website code
+
+## The basics of Facebook Ads 
+- Ads are used to get the brand in front of people and share the value proposition!
+  - Create Awareness 
+    - Brand Awareness
+    - Reach
+  - Consideration - Offer a value proposition that is attractive
+    - Traffic 
+    - Engagement
+    - App installs
+    - Video views
+  - Conversion - Convert the customer and build ongoing customer loyalty
+    - Conversions
+    - Store traffic information
+  - Create Ad sets
+    - Location
+    - Age 
+    - gender
+    - Custom Audience
+
+ ## Audience - who sees your Ads
+ - Target a specific audience via strict parameters
+ - Target broad audience 
+ - Notice the total ad campaign potential reachability
+ - Detailed targeting
+   - Target the competitors facebook page 
+  
+
