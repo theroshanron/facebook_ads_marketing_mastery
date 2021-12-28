@@ -25,9 +25,27 @@
 - _____Sale, coupon code, promotions
 - _____under $100 , $10
 - _ vs _
+
+## Keyword niche #2 - Info seekers
 - How to? ______
 - Easy ____
 - Top 5, 10 _________
 - ____tutorial
 - DIY___
 - Compare_____
+- ___vs____
+
+## How to collect the data to use the keywords worth ranking for 
+- Use Long tail pro
+- Use Google Ad words
+- Pick winning keywords 
+  - Keyword competitiveness
+    - Higher number indicate a higher level of keyword difficulty
+  - Target an Avg. KC of 40 and below #Keyword competitiveness
+  - YouTube search suggestions  
+    - Add an asterisk before your main keyword to add suggested words in front 
+  - Google search suggestions
+    - Write down all the suggested title searches 
+  - Use Keyword planner
+    - https://ads.google.com/aw/keywordplanner
+  
