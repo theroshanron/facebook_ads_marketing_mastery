@@ -26,3 +26,4 @@
 ## Create a username 
 - Navigate and click on edit information
 - click username field
+
