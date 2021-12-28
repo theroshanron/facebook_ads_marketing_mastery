@@ -63,5 +63,21 @@
       - Did people engage?
       - Did people make a purchase?
       - Did people opt for email list?
+
+## Facebook Sales Funnel 
+
+### Brand Awareness 
+- Post engaging and shareable content 
+- Post images, videos, Infographics, how to's, funny or inspiring content
+- Goal = Attraction
+
+### Traffic & Conversions 
+- Re_target the warm audience with something free in exchange for their email or phone number
+- Add market offers or promotions that appeals the audience 
+- Goal = Increase interest and Capture leads to
+
+### New customer
+- Provide customer service, answer questions, continue to offer value.
+- Goal = Sales
   
 
