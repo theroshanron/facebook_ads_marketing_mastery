@@ -67,9 +67,9 @@
 ## Facebook Sales Funnel 
 
 ### Brand Awareness 
-- Post engaging and shareable content 
-- Post images, videos, Infographics, how to's, funny or inspiring content
-- Goal = Attraction
+  - Post engaging and shareable content 
+  - Post images, videos, Infographics, how to's, funny or inspiring content
+  - Goal = Attraction
 
 ### Traffic & Conversions 
 - Re_target the warm audience with something free in exchange for their email or phone number
