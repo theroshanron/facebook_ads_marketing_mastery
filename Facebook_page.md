@@ -27,3 +27,14 @@
 - Navigate and click on edit information
 - click username field
 
+## What makes your Facebook page Awesome?
+- Check for the competitors page and do some research 
+- Refer to [Coursenvy Facebook Page Example](www.coursenvy.com/best-facebook-pages)
+- Use right size logo in the profile image
+  - Add relevant and short description
+  - Action button
+- Check for the tabs 
+- ##popular posts for engagement
+- Most known for in the description
+- Use google.com/trends and add any post using the keywords from the trend
+  
