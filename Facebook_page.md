@@ -23,3 +23,6 @@
       - Try never to give admin access to anyone unless it's a founder or co-founder 
   - Select instagram on your facebook page settings tab to connect Instagram to Facebook pages 
 
+## Create a username 
+- Navigate and click on edit information
+- click username field
