@@ -61,3 +61,5 @@
 - Engagement with your post likes, comments and shares before the Ad post matters a lot
 - Clout = Social engagement 
 - You can use the high clout post in all relevant ad campaign targeting your actual customers via custom audience
+
+

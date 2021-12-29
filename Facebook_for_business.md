@@ -65,6 +65,12 @@
       - Did people opt for email list?
 
 ## Facebook Sales Funnel 
+- Newsletter
+- Subscription
+- Provide value for free 
+- Re-targeting to convert into sales
+  - Track visitors with Facebook pixel installed on the website 
+  - Add custom audience from Facebook Business Manager Audience section
 
 ### Brand Awareness 
   - Post engaging and shareable content 
@@ -80,4 +86,14 @@
 - Provide customer service, answer questions, continue to offer value.
 - Goal = Sales
   
+### Split test results
+- Test everything Facebook Ad objectives, Detailed targeting, Ad copy, images/ Videos
+- Make sure to test only one variable at a time 
+- Always try to test video ads and re_target people who watch over 50% of my top of funnel video Ads
+  - Time duration -> 90 days
+  - Select the video and name the audience 
+- Split test by selecting the custom audience under the Ad set level with the campaign objective 
+  - Facebook Conversion Objective Campaign
+    - Direct the traffic to lead capture page where you can offer something for free
+  - Also, split test with traffic objective campaign and facebook lead generation objective campaign
 
