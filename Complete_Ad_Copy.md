@@ -56,3 +56,8 @@
 - Review product page, landing page and check re_targeting Ads
 - Use chrome extension "Facebook Pixel Helper" to review competitors pages for Facebook events they are tracking
   
+## Best Facebook Ad boost
+- https://www.facebook.com/business/inspiration
+- Engagement with your post likes, comments and shares before the Ad post matters a lot
+- Clout = Social engagement 
+- You can use the high clout post in all relevant ad campaign targeting your actual customers via custom audience
