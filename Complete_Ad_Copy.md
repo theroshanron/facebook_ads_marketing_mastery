@@ -26,4 +26,20 @@
 - Test in bulk with multiple variables
   - Test what works best for you with 4/5 Variant 
 - Track everything you test with the excel, tableau along with the Facebook
+
+## Facebook Ad creatives 
+- Test your images and Videos
+- Toggle on the Dynamic creative in the Ad sets
+- Use High resolution images
+- Try to add authentic images and videos
+- Make the creatives relevance
+  - If we targeting dog as the interest, having a cute dog in the image will perform better
+- Don't add very small text on image / video 
+
+## Creative Hub 
+- Use creative hub to create mockup and test
+- Toggle on Show in Ads manager
+- We can also use tools like Canva or Photoshop
+- Test using happy and attractive people in the images
+- Use text overlay also in thumbnail
   
