@@ -42,4 +42,17 @@
 - We can also use tools like Canva or Photoshop
 - Test using happy and attractive people in the images
 - Use text overlay also in thumbnail
+
+## The Ultimate Ad Hack 
+- Market research 
+- What competitors are doing 
+- What text. proposition and creatives have been used to create Ad 
+- Visit Facebook Ad library 
+  - facebook.com/ads/library
+- Analyse, document and pull inspiration from the ad copy and images/videos
+- Click the CTA button and review the landing page 
+- Save the ads whenever you catch a good advertising
+- Research and use every resources available
+- Review product page, landing page and check re_targeting Ads
+- Use chrome extension "Facebook Pixel Helper" to review competitors pages for Facebook events they are tracking
   
