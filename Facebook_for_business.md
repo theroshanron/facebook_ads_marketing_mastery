@@ -80,7 +80,7 @@
 ### Traffic & Conversions 
 - Re_target the warm audience with something free in exchange for their email or phone number
 - Add market offers or promotions that appeals the audience 
-- Goal = Increase interest and Capture leads to
+- Goal = Increase interest and Capture leads to 
 
 ### New customer
 - Provide customer service, answer questions, continue to offer value.
@@ -96,4 +96,10 @@
   - Facebook Conversion Objective Campaign
     - Direct the traffic to lead capture page where you can offer something for free
   - Also, split test with traffic objective campaign and facebook lead generation objective campaign
-
+- Scale up the winning campaign with 20-25% budget and shut off the non-performing campaign
+  
+## Create lookalike audience
+- Facebook find new audience similar to the existing audience
+- Select the data source
+  - Website traffic or email list 
+- Select audience location and size

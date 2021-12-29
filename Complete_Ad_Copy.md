@@ -62,4 +62,13 @@
 - Clout = Social engagement 
 - You can use the high clout post in all relevant ad campaign targeting your actual customers via custom audience
 
+## Target Market
+- Don't start narrow and target broad audience at the top of funnel 
+- Add age, gender, hobby, relationship status, facebook page they like 
+- Select the right placement 
+  - News feed
+  - Messenger or Facebook stories
+  - Instagram Feed or stories
+- You can also use the automatic placement as it also does the best thing
+  
 
