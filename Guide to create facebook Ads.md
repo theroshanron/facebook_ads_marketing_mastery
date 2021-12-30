@@ -100,4 +100,15 @@
     - Fill out the event details and publish option and make note of ticket url 
     - Target the past customers and split test with lookalike audience 
 
-- 
+- App install 101
+  - To direct people to an app store where they can download your app 
+  - Platform: Facebook, instagram, Audience network, Messenger
+  - Facebook sdk needs to be installed on mobile app for app install objective
+  - Select the app store menu in application 
+  - Select the audience 
+  - Split test with device and the placement 
+  - Toggle only when connected to wifi makes user comfortable to install 
+  - Split test format of the ads
+    - Screen recording of how the app works better 
+
+  
