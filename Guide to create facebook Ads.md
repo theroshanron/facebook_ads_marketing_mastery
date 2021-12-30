@@ -127,3 +127,25 @@
    - facebook.com/page/leads_center
    - Split test lead gen vs conversion ads
    - Add instant form in lead generation ads
+
+- Messages 101
+  - To get more people to have conversation with  your business and answer customer questions
+  - Send people from ads to facebook messenger 
+  - Message ads performs better with e_commerce store
+  - Select message destination such as Messenger to WhatsApp 
+    - Sponsored message destination is better when you want to target people who already messages to your page with an open thread
+    - Great way to re-engage with prospects who previously shown interest, add a coupon or promote a new product launch campaign
+    - Select the facebook page and update the greetings
+    - Use quick reply message
+  - Create the custom audience based on "website traffic" from facebook pixel event
+    - "Add to cart" 
+    - Excluded from the audience who never made a purchase in 30 days 
+  - In Ad level ads, 
+    - You message template 
+      - Start conversations
+      - Generate leads or advance setups 
+      - Edit the welcome message and edit the customer actions 
+        - Use frequently asked questions 
+  - Use chatbot such as chatfuel or manychat
+
+- Conversions 101
