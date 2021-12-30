@@ -197,4 +197,8 @@
 - At ad level, all videos, images, headlines, call to action button and carousel
 - Go to the ad manager, click breakdown menu on the right and choose "By dynamic Creative Asset" from the dropdown menu 
   
+### Special Ad category
+- If it's related to housing, social, election or politics some options will be unavailable when we toggle special ad category
+  
+
   
