@@ -158,3 +158,12 @@
   - Select the custom audience and retarget the warm audience like user who clicked on instagram link
   - At ad level, you can add single image or video and must split test 
   - Must add a good value proposition
+
+- Catalog Sales 101 
+  - To show products from the catalog based on the target audience
+  - Create a product catalog on business.facebook.com/products inventory
+  - Select Catalog as sales objective in new campaign 
+  - Ad set level, select the products you want to sell or all products 
+  - Retarget the warm audience 
+  - Select the type of visitor like who added in the cart but did not make any purchase 
+
