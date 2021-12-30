@@ -94,4 +94,10 @@
   - Target a lookalike audience 
   - Enable the expand option and target the competitors page 
   - Target the current fb page followers via connection options
-  - 
+  - On Ad level, you can 
+    - Create a new post or select an existing post 
+    - Add the event already created
+    - Fill out the event details and publish option and make note of ticket url 
+    - Target the past customers and split test with lookalike audience 
+
+- 
