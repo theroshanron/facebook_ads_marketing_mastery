@@ -52,3 +52,16 @@
     - Review the preview of your Ad 
     - Add Website URL 
     - Enable Facebook Pixel for conversion tracking
+
+- Reach 101
+- When to use : To show your ad to the maximum number of people in your audience on FB, Instagram and messenger
+- Ad formats like single image, slideshow, video and carousel
+- Target a warm audience list of past customers
+- Select people who live in the location where you want to sell product / promote
+- Add a split testing
+  - People who travels or people who already live in the Location
+- Use detailed targeting to target your audiences
+- Add frequency cap : Ad appears in regular interval
+-  Add Website URL 
+- Enable Facebook Pixel for conversion tracking
+
