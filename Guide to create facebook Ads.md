@@ -73,4 +73,8 @@
   - Choose where you want to drive traffic 
   - Add detailed targeting (Exclude or narrow the audience for the better specified targeting)
     - Such as parents who like dogs but not cats 
-  - 
+  - Spit test with the different format targeting
+    - Carousel works best in traffic objective sometimes 
+  - Select the headline 
+  - Select the automatically show best performing ads 
+  - See the breakdown in Ads manager to see how ads are performing
