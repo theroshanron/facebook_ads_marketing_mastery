@@ -149,3 +149,12 @@
   - Use chatbot such as chatfuel or manychat
 
 - Conversions 101
+  - To track or measure conversion on your website or app using Facebook pixel events
+  - Re_target very warm or hot audience who comes at touch point 6,7
+  - Do not start conversions ads until you have build the custom audience and facebook pixel data for at least a few weeks
+  - Use traffic ads to build custom audience size and then use conversion ads to retarget that audience who visited the product page but did not make any purchase and close the sale.
+  - Select the event you want to track based on pixel tracking
+  - You can also create a custom conversion
+  - Select the custom audience and retarget the warm audience like user who clicked on instagram link
+  - At ad level, you can add single image or video and must split test 
+  - Must add a good value proposition
