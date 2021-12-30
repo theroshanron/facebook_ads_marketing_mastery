@@ -78,3 +78,20 @@
   - Select the headline 
   - Select the automatically show best performing ads 
   - See the breakdown in Ads manager to see how ads are performing
+
+- Engagement 101
+  - To get people engage with the fb page post, getting page likes and event attendees on fb, instagram and messenger
+  - Only 10% of organic audience sees the post 
+  - Build up your clout, trust and dependability with minimum 10k likes
+    - Engagement type should be page like 
+    - Select facebook page 
+    - Split test with detailed targeting 
+      - Competitor page or category and exclude people who already like your page
+    - Be direct and give instant reasons to people to like your page 
+  - Engagement type post engagement 
+  - Create post engagement ads
+  - It is optimized to get likes, comment, shares and not to redirect audience to your website if you add any links
+  - Target a lookalike audience 
+  - Enable the expand option and target the competitors page 
+  - Target the current fb page followers via connection options
+  - 
