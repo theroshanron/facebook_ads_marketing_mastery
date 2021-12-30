@@ -189,4 +189,12 @@
 - Select the A/B test while creating campaign and select the campaign objective as well as variable you want so automatically split test 
 - Focus on measurable hypothesis
 - Big enough audience for the test and use ideal time frame like 4-5 days 
+
+### Dynamic Creative 
+- With this option enabled, we can upload multiple creatives
+- It will automatically find the optimized ad by taking multiple assets from the creatives
+- It is a great tool for the facebook advertisers and not substitutes for the split testing 
+- At ad level, all videos, images, headlines, call to action button and carousel
+- Go to the ad manager, click breakdown menu on the right and choose "By dynamic Creative Asset" from the dropdown menu 
+  
   
