@@ -111,4 +111,13 @@
   - Split test format of the ads
     - Screen recording of how the app works better 
 
-  
+- Video Views 101
+  - To promote video views (Consider using comedy, behind the scenes, product infomercials or customer testimonials)
+  - This objective is specifically optimized for just getting increased views on video 
+  - Always upload video directly to facebook instead of using the link of such as YouTube 
+    - Works better with the cold audience and works as first touch point 
+    - Re-target these people based on criteria such as who watched videos more than 50%
+    - Target broad audience to get more video views at low cost 
+  - Add call to action button such as sign up 
+  - Add website url
+  - You can also add own slideshow using the multiple images
