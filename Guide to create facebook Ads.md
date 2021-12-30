@@ -167,3 +167,16 @@
   - Retarget the warm audience 
   - Select the type of visitor like who added in the cart but did not make any purchase 
 
+- Store traffic 
+  - To promote business locations to people nearby 
+  - Specifically for business with physical locations
+  - Get directions or call now call to action button included 
+  - Select the page 
+  - Create a new store set in Ad set level
+    - Select the targeting area and name the store set 
+    - Target the entire location address but better split test with multiple addresses 
+  - For multiple store, select the Ad voice local pages option 
+  - Split test with ad format whereas carousel can be added with map location image
+  - Split test with call to action button such as "Get directions" or "Call now" 
+  - Add a great value proposition
+
