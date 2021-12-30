@@ -199,6 +199,20 @@
   
 ### Special Ad category
 - If it's related to housing, social, election or politics some options will be unavailable when we toggle special ad category
+
+### Ad Media tips
+- Try to include people in images or videos as it's relevant to the social platform 
+- Do not use copyright images or videos
+- Split test 3-4 images and 2 videos in each campaign 
+- 20% test rule in media 
+- Image or video should tell a good story 
+- Use frame around image and bright attention grabbing color for ad image split test
+- Always add captions in the video as most of the people watch with no sound 
+  - Click edit video and caption display text on when the sound is off 
+  - Add Video thumbnail image which gains users attraction
+- To target business owners on Facebook, enable detailed targeting and ads page admins
+
+
   
 
   
