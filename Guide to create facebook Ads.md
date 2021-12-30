@@ -44,4 +44,11 @@
     - Use the connection options to select the friends of people who like your page 
     - Device and platform where ad should appear with manual placements
       - It's better to use automatic placement based on experience as facebook automatically optimizes them
-  - 
+  - Mobile test your website for the responsiveness with chrome dev tools 
+  - At ad level name the ad
+  - Select the identity (Facebook page and instagram account)
+  - Select the format of the ads
+    - Video ad performs better than images (Single image or Carousel)
+    - Review the preview of your Ad 
+    - Add Website URL 
+    - Enable Facebook Pixel for conversion tracking
