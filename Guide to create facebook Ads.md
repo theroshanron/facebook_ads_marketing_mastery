@@ -121,3 +121,9 @@
   - Add call to action button such as sign up 
   - Add website url
   - You can also add own slideshow using the multiple images
+
+ - Lead generation 101
+   - To collect lead info, such as phone numbers and email addresses, from people interested in your business 
+   - facebook.com/page/leads_center
+   - Split test lead gen vs conversion ads
+   - Add instant form in lead generation ads
