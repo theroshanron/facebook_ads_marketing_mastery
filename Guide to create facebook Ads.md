@@ -53,7 +53,7 @@
     - Add Website URL 
     - Enable Facebook Pixel for conversion tracking
 
-- Reach 101
+###  Reach 101
   - When to use : To show your ad to the maximum number of people in your audience on FB, Instagram and messenger
   - Ad formats like single image, slideshow, video and carousel
   - Target a warm audience list of past customers
@@ -65,7 +65,7 @@
   -  Add Website URL 
   - Enable Facebook Pixel for conversion tracking
 
-- Traffic 101
+###  Traffic 101
   - To send people to your website or increase engagement with the app 
   - traffic = website Clicks
   - Have facebook pixel installed on your website and have a custom audience to capture the traffic to re_target these warm audience 
@@ -79,7 +79,7 @@
   - Select the automatically show best performing ads 
   - See the breakdown in Ads manager to see how ads are performing
 
-- Engagement 101
+###  Engagement 101
   - To get people engage with the fb page post, getting page likes and event attendees on fb, instagram and messenger
   - Only 10% of organic audience sees the post 
   - Build up your clout, trust and dependability with minimum 10k likes
@@ -100,7 +100,7 @@
     - Fill out the event details and publish option and make note of ticket url 
     - Target the past customers and split test with lookalike audience 
 
-- App install 101
+###  App install 101
   - To direct people to an app store where they can download your app 
   - Platform: Facebook, instagram, Audience network, Messenger
   - Facebook sdk needs to be installed on mobile app for app install objective
@@ -111,7 +111,7 @@
   - Split test format of the ads
     - Screen recording of how the app works better 
 
-- Video Views 101
+###  Video Views 101
   - To promote video views (Consider using comedy, behind the scenes, product infomercials or customer testimonials)
   - This objective is specifically optimized for just getting increased views on video 
   - Always upload video directly to facebook instead of using the link of such as YouTube 
@@ -128,7 +128,7 @@
    - Split test lead gen vs conversion ads
    - Add instant form in lead generation ads
 
-- Messages 101
+###  Messages 101
   - To get more people to have conversation with  your business and answer customer questions
   - Send people from ads to facebook messenger 
   - Message ads performs better with e_commerce store
@@ -148,7 +148,7 @@
         - Use frequently asked questions 
   - Use chatbot such as chatfuel or manychat
 
-- Conversions 101
+###  Conversions 101
   - To track or measure conversion on your website or app using Facebook pixel events
   - Re_target very warm or hot audience who comes at touch point 6,7
   - Do not start conversions ads until you have build the custom audience and facebook pixel data for at least a few weeks
@@ -159,7 +159,7 @@
   - At ad level, you can add single image or video and must split test 
   - Must add a good value proposition
 
-- Catalog Sales 101 
+###  Catalog Sales 101 
   - To show products from the catalog based on the target audience
   - Create a product catalog on business.facebook.com/products inventory
   - Select Catalog as sales objective in new campaign 
@@ -167,7 +167,7 @@
   - Retarget the warm audience 
   - Select the type of visitor like who added in the cart but did not make any purchase 
 
-- Store traffic 
+### Store traffic 101
   - To promote business locations to people nearby 
   - Specifically for business with physical locations
   - Get directions or call now call to action button included 
@@ -180,3 +180,13 @@
   - Split test with call to action button such as "Get directions" or "Call now" 
   - Add a great value proposition
 
+### Split Testing 101
+- Always test with one variable to see the difference 
+- Duplicate the Ad set/ Campaign to manually split test
+  - Edit only one variable
+- An audience overlap could happen and people will see same ad multiple times 
+  - Exclude audience at the ad set level 
+- Select the A/B test while creating campaign and select the campaign objective as well as variable you want so automatically split test 
+- Focus on measurable hypothesis
+- Big enough audience for the test and use ideal time frame like 4-5 days 
+  
