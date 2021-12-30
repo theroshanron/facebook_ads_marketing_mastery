@@ -34,3 +34,14 @@
 
 ### Step by Step 
 - Brand Awareness 101
+  - When to use : To increase awareness of the brand name on FB, instagram and messenger
+  - Ad formats like single image, slideshow, video and carousel
+  - Emotionally resonate with your Audience
+  - Introduction, ongoing or remember me ad. 
+  - Promote the brand with a story 
+  - Name the Ad sets
+    - Select the broad audience with facebook page insights
+    - Use the connection options to select the friends of people who like your page 
+    - Device and platform where ad should appear with manual placements
+      - It's better to use automatic placement based on experience as facebook automatically optimizes them
+  - 
