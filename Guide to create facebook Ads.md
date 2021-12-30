@@ -54,14 +54,23 @@
     - Enable Facebook Pixel for conversion tracking
 
 - Reach 101
-- When to use : To show your ad to the maximum number of people in your audience on FB, Instagram and messenger
-- Ad formats like single image, slideshow, video and carousel
-- Target a warm audience list of past customers
-- Select people who live in the location where you want to sell product / promote
-- Add a split testing
-  - People who travels or people who already live in the Location
-- Use detailed targeting to target your audiences
-- Add frequency cap : Ad appears in regular interval
--  Add Website URL 
-- Enable Facebook Pixel for conversion tracking
+  - When to use : To show your ad to the maximum number of people in your audience on FB, Instagram and messenger
+  - Ad formats like single image, slideshow, video and carousel
+  - Target a warm audience list of past customers
+  - Select people who live in the location where you want to sell product / promote
+  - Add a split testing
+    - People who travels or people who already live in the Location
+  - Use detailed targeting to target your audiences
+  - Add frequency cap : Ad appears in regular interval
+  -  Add Website URL 
+  - Enable Facebook Pixel for conversion tracking
 
+- Traffic 101
+  - To send people to your website or increase engagement with the app 
+  - traffic = website Clicks
+  - Have facebook pixel installed on your website and have a custom audience to capture the traffic to re_target these warm audience 
+  - Split test with all the variables like gender,age and location 
+  - Choose where you want to drive traffic 
+  - Add detailed targeting (Exclude or narrow the audience for the better specified targeting)
+    - Such as parents who like dogs but not cats 
+  - 
