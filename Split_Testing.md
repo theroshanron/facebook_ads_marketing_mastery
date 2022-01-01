@@ -29,6 +29,8 @@
 - Detailed Targeting
 - Images
 - Carousel / Videos /Slideshow
+- Headline
+- Call to action
 
 ## The Super split test
 - Add minimum of 1-2 USD budget per ad sets and 30 usd for the campaign
@@ -45,3 +47,12 @@
   - Placements like mobile, desktop and then use automatic placement as warm audience can be a conversion aon any placement
   
 ## Manual split test Ad level
+- Duplicate Ads and add number of copies
+- Use one variable per ad for the split testing
+- Test variables like call to action, headline, image 
+
+### Split testing with Dynamic creative
+- Takes multiple Ad variables such as images, title, descriptions, videos and ctas
+- It finds the optimized ad creative combinations using facebook machine learning algorithms
+- Use winning creatives to add to split testing and scale up the budget 
+  
