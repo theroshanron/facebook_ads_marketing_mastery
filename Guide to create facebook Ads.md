@@ -229,3 +229,10 @@
 ### Conversions objectives 
 - Select the conversion and then conversion window like 7 day click or 1 day views
 
+## Facebook Ad Auction
+- Facebook automatically bidding system is very budget 
+- For limited budget, limit the bid cap price
+- Under campaign bid strategy, 
+  - default is the lowest cost which is facebook auto bid optimization
+  - Cost cap allows you to manually select the average bid cost per your ad
+  - Bid cap allows you to add your Max bid cost
