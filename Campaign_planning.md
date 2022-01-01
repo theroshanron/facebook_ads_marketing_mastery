@@ -45,4 +45,13 @@
       - 10 Ad set
         - 1 Dynamic creative
           - 5 variables for each dynamic creative 
+
+### Top of the funnel content 
+- People hate being sold unless the product is below 25 USD  
+- Build relationship with the audience with value and proposition
+- Create polls, surveys, quizzes and questions 
+- Add video commercials, education, entertaining  
+- Top 7, 10 list which attracts people 
+- Contest and Giveaways
+- Lead magnets like coupon, ebook, trial application or video 
   
