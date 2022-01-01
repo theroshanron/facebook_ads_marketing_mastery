@@ -23,4 +23,26 @@
     - For 3 out of 10 cold audience, single interest, demographic, gender, age, location or behavior in each ad set 
     - Know your targeted customer before you target them 
     - For 1 out of 10, target broad audience, 1 country with all the age, gender and language
-- 
+  - A warm custom audience works the best as they have already engaged with your posts or ads
+  - Target lookalike audience based on 
+    - Visitors by time spent - top 25%  
+    - Everyone who engaged with your page, business or viewed at least 15 seconds of your video  
+    - Custom audience with different time segment of 1,7,14,21,30 days based on addTocart, initate_checkout and all website visitors
+    - People who visited specific web pages   
+    - Customer list with different segments like buyers, lapsers, email subscriber  
+    - It helps in replacing all the cold traffic 
+    - Based on research, lookalike audience performs the best for top of the funnel targeting compared to cold traffic using split test 
+    - Facebook needs minimum of 1000 custom audience to create a lookalike audience 
+    - Post engagement ads performs better at TOF
+    - Create Ad posts with social proof hence spend minimum USD 5 for the post boost campaign ad        
+    - Split test post content to optimize for the metric
+    - Use audience from post engagement to conversion objective campaign
+    - Grow social proof 
+      - Copy the ad post ID and use the post in campaign 
+        - Use existing post  
+        - You can use post likers to like page for facebook extension to invite people who all liked your post 
+    - Campaign Objective
+      - 10 Ad set
+        - 1 Dynamic creative
+          - 5 variables for each dynamic creative 
+  
