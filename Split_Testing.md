@@ -55,4 +55,13 @@
 - Takes multiple Ad variables such as images, title, descriptions, videos and ctas
 - It finds the optimized ad creative combinations using facebook machine learning algorithms
 - Use winning creatives to add to split testing and scale up the budget 
+- Toggle on at ad level and it is not available for all the campaign objectives
+- Go to the Ads tab and click on breakdown menu to choose "By dynamic creative asset" option
+- Select one of the breakdown to check which asset is working best for the campaign
+  
+#### Split test with carousel 
+    - Select carousel format
+    - Add multiple images to the carousel 
+    - In Ad menu, select action and carousel card under the breakdown menu to check which image/ videos are getting the more engagement
+  
   
