@@ -251,3 +251,4 @@
     - Make them an offer, they can't refuse 
   - The above method can be applied to get clout likes on your posts as well
   - You might need to exclude the facebook page like in the future during ad launch so that the ad is not targeted to these irrelevant audience who cannot bring any value to the product
+
