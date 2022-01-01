@@ -240,3 +240,14 @@
 ### Cost cap vs Ad cap
     - Cost cap is helpful if you have specific cost goal, by enabling it, you are telling the fb platform which results to spend the budget on
     - Bid cap is helpful when you want to add max bid in every auction, by enabling it, you are telling the fb platform how to bid and limit on results
+
+### How to create Facebook Page like Ads 
+- Only do this if you need to build clout for the facebook page at low cost 
+- Cheap page likes are for building page followings only to make the brand look big and important
+- Create campaign and choose the engagement objective "Page likes"
+  - Select the low CPC locations to target 
+  - Add relevant interests to your business 
+  - The text in add should have value proposition
+    - Make them an offer, they can't refuse 
+  - The above method can be applied to get clout likes on your posts as well
+  - You might need to exclude the facebook page like in the future during ad launch so that the ad is not targeted to these irrelevant audience who cannot bring any value to the product
