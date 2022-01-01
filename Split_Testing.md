@@ -30,4 +30,18 @@
 - Images
 - Carousel / Videos /Slideshow
 
-#
+## The Super split test
+- Add minimum of 1-2 USD budget per ad sets and 30 usd for the campaign
+- Toggle on campaign budget optimization
+- While duplicate, add 30 number of Ad sets to copy 
+- Analyse competitors page and own facebook page insights 
+- Ideas to split test are 
+  - Website traffic analysis
+  - top 25% traffic analysis
+  - Add to cart 
+  - Video views
+  - Video views 50% 
+  - Lookalike audiences 1%,5% and 10% for every target country for every custom audiences
+  - Placements like mobile, desktop and then use automatic placement as warm audience can be a conversion aon any placement
+  
+## Manual split test Ad level
