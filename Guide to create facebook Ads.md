@@ -213,6 +213,12 @@
 - To target business owners on Facebook, enable detailed targeting and ads page admins
 
 
+## Budget bidding and schedule
+- Campaign budget optimization distributes the budget across ad sets to get more results depending on the delivery optimization choice and bid strategy
+- Create new ad sets and target one variable per each ad sets
+- Use daily budget to check daily the result of split ads 
+- Lifetime budget requires to set lifetime date range and ad scheduling only works with lifetime budget
+- Analyse facebook page insight and run the ads based on ad account time zone or audience time zone 
+- Usually select the facebook's default setting for the optimization of Ad delivery
   
-
   
