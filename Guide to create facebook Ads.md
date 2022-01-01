@@ -236,3 +236,7 @@
   - default is the lowest cost which is facebook auto bid optimization
   - Cost cap allows you to manually select the average bid cost per your ad
   - Bid cap allows you to add your Max bid cost
+
+### Cost cap vs Ad cap
+    - Cost cap is helpful if you have specific cost goal, by enabling it, you are telling the fb platform which results to spend the budget on
+    - Bid cap is helpful when you want to add max bid in every auction, by enabling it, you are telling the fb platform how to bid and limit on results
