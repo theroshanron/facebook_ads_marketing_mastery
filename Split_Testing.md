@@ -63,5 +63,11 @@
     - Select carousel format
     - Add multiple images to the carousel 
     - In Ad menu, select action and carousel card under the breakdown menu to check which image/ videos are getting the more engagement
-  
+
+## Facebook A/B test automatically split testing
+- Click the green create ad button on ads manager page 
+- Select campaign objective and then A/B test option 
+- Select the variables for split testing 
+- Use ideal frame for the days like 3-4 days average 
+- Use big enough audience for the split test
   
