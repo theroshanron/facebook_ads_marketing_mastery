@@ -221,4 +221,11 @@
 - Analyse facebook page insight and run the ads based on ad account time zone or audience time zone 
 - Usually select the facebook's default setting for the optimization of Ad delivery
   
-  
+### Reach Ad set optimization and delivery 
+    - Add frequency cap which decides how many impressions per days for the audience
+### Video views Ad set optimization and delivery
+- Select Thruplay which allows advertisers to optimize and choose to pay only for Ads that are played to completion
+  - Works great with short videos or at least 15 seconds in case of longer Videos
+### Conversions objectives 
+- Select the conversion and then conversion window like 7 day click or 1 day views
+
