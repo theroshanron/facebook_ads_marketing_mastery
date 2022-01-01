@@ -54,4 +54,14 @@
 - Top 7, 10 list which attracts people 
 - Contest and Giveaways
 - Lead magnets like coupon, ebook, trial application or video 
-  
+
+#### Ad questions and polls like
+    - Who is your favorite superhero?
+    - A xyz question on the hot topic as people on social media are very opinionated
+    - Check for the example from multiple blog sites like buzzfedd, the huffington post, ndtv etc. 
+    - Boost your marketing with the interactive content this way
+    - Use traffic campaign to outgrow polls which quickly segment the audience for you 
+    - It enables the warm up audience and build custom audience 
+    - Answering questions are like small transactions which gets them saying they might need to 
+    - Create win win viral contest and actually give freeway and avoid freeways like ipad giveaway which only attracts the freebies
+      - Ask the participant to share it on the social media to win the t-shirts, custom socks, caps or mobile cover
