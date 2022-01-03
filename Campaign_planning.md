@@ -116,4 +116,15 @@
 - Selling is little bit easier if you have good reviews
 - Create a campaign to get past customers write content for you
   - Get INR 50 off on your next purchase at store if you upload the best photo with our product and why you love it
-  
+
+### Omnichannel Marketing
+- Retargeting past customers via Facebook Ads convert at higher rate than via email marketing 
+- Crucial to reach people wherever they are online
+- Create custom audience of user who made a purchase in the last 7 days                    
+  - Retarget with the reach campaign with frequency cap of 1 impression every 3 days 
+  - Create a selfie video thanking the customer
+- Create two custom audience of user who made the purchase in the past 30 and 60 days:
+  - User generated content by adding some values for them
+- Create another custom audience of users who have made more than one purchase or over a certain amount.
+  - Call them VIP audience and target them with "VIP ads" and offer exclusive products
+- Once the VIP Custom Audiences grow to 1000+ in size, create Lookalike Audience of them 
