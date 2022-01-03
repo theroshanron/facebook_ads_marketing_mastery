@@ -8,7 +8,7 @@
   - Middle of the funnel
   - Bottom of the funnel
   
-  ### Top of the funnel 
+  ### Top of the funnel
   - 20% of daily ad spend budget allocate to this 
   - This is to collect more data to grow bigger, better and add more custom audiences and lookalike audiences
   - Target the broad audience typically more than 1 million Audience
@@ -55,3 +55,8 @@
 - Contest and Giveaways
 - Lead magnets like coupon, ebook, trial application or video 
   
+## Middle of the funnel
+- 50% of the daily budget
+- Conversion objective with purchase event goal to sell or collect leads
+- To build the custom audience with most likely to convert users as well
+- Get at least 1000 users and then start retargeting them
