@@ -52,6 +52,7 @@
 - Select the lookalike audience source 
 - Select the location where to look for the audience
 - Select audience size up to 1% 
+- Create lookalike audience based on your facebook page fans audience as well 
   
   
 ### Targeting people who already engaged with Facebook Page or Instagram
@@ -59,3 +60,10 @@
 - Create post engagement ads and move the engaged fans to sales funnel for upsell 
 - Promote new services and products to create lifetime customers
 - Drive engaged fans from Facebook to instagram and vice versa to grow the following on both platforms 
+- Great way to re-engage with most engaged fans and turn them into your best brand ambassador
+  
+### Lead form custom audience
+- People who engaged with lead generation form
+  - Opened the form 
+  - Opened but did not submit the form 
+  - Open and submit the form
