@@ -137,3 +137,14 @@
 - TOF Conversion campaign with conversion goal of "View content" 
 - MOF Conversion campaign with conversion goal of "Add to Cart"
 - BOF Conversion campaign with conversion goal of "Purchase"
+- Seasoning your Facebook pixel, 
+  - Collect total 100 of conversion events before starting a conversion campaign
+  - Can be done with Facebook pixel installation on the website 
+  
+### Split Testing
+- Nothing is set to stone on the Facebook
+- Different objectives can have different variables performing better based on the audience , campaign and other factors targeting
+- Split test everything in the Ad sets, Ads and campaign objective 
+- For small audience, keep frequency cap to 7-8 per month
+- At times, increase the percentage of lookalike audiences
+
