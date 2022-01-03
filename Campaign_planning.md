@@ -187,3 +187,16 @@
   - Written reviews into a 30 second slideshow 
   - Check out facebook.com/snow
 
+### Track the testings 
+- Track everything manually if possible in a separate spreadsheet
+- Categorize the identifiers 
+  - Amount spent in the
+  - CPM
+  - CPC
+  - CTR
+  - Conversions
+  - CPA
+  - Revenue 
+  - Profit
+- Becomes very valuable for future Ad creation
+  
