@@ -53,6 +53,13 @@
 - Select the location where to look for the audience
 - Select audience size up to 1% 
 - Create lookalike audience based on your facebook page fans audience as well 
+- Only create lookalike audience when the custom audience source is at minimum 1000 users
+- A source must contain at least 100 people from a single country 
+- Try to create value based lookalike audience based on people who spend money
+- Increasing the percentage targets the broader audience 
+- Create multiple lookalike audience based on 0 to 1, 0 to 5 and 0 to 10% and one country at a time 
+- You can also narrow the specific targeting in lookalike audience just like custom audience
+- 
   
   
 ### Targeting people who already engaged with Facebook Page or Instagram
@@ -67,3 +74,5 @@
   - Opened the form 
   - Opened but did not submit the form 
   - Open and submit the form
+
+
