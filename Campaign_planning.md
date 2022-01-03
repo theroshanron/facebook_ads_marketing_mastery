@@ -106,3 +106,14 @@
   - Eliminate extra stuff like redirection to a different link 
   - Ad should be laser focused on what result you want(i.r traffic to a blog post, conversion, product page, email sign_up or lead capture)
 
+## Buyer Retargeting
+- 10% of the daily budget
+- Past customers are hot audience if you provide the lifetime value 
+- Goal is to build retention and loyalty with the customer 
+- Think of exclusive offers such as discount to the old customers
+  - Reward or loyalty program, VIP cards
+- Collect Testimonial and user generated content
+- Selling is little bit easier if you have good reviews
+- Create a campaign to get past customers write content for you
+  - Get INR 50 off on your next purchase at store if you upload the best photo with our product and why you love it
+  
