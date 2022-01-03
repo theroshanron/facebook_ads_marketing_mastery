@@ -8,7 +8,7 @@
   - Middle of the funnel
   - Bottom of the funnel
   
-  ### Top of the funnel 
+  ### Top of the funnel
   - 20% of daily ad spend budget allocate to this 
   - This is to collect more data to grow bigger, better and add more custom audiences and lookalike audiences
   - Target the broad audience typically more than 1 million Audience
@@ -54,6 +54,7 @@
 - Top 7, 10 list which attracts people 
 - Contest and Giveaways
 - Lead magnets like coupon, ebook, trial application or video 
+<<<<<<< HEAD
 
 #### Ad questions and polls like
     - Who is your favorite superhero?
@@ -65,3 +66,24 @@
     - Answering questions are like small transactions which gets them saying they might need to 
     - Create win win viral contest and actually give freeway and avoid freeways like ipad giveaway which only attracts the freebies
       - Ask the participant to share it on the social media to win the t-shirts, custom socks, caps or mobile cover
+=======
+  
+## Middle of the funnel
+- 50% of the daily budget
+- Conversion objective with purchase event goal to sell or collect leads
+- To build the custom audience with most likely to convert users as well
+- Get at least 1000 users and then start retargeting them
+- Enable Campaign budget optimization
+
+### How to allocate the budget for MOF
+- Create conversion campaign and create 3 Ad sets 
+- Consist of ads driving people to salespage
+- Exclude the past Buyers
+- Create another conversion with 7 Ad sets
+  - 1% Lookalike audiences of the TOF contents
+  - Cold audience as they might make impulse purchase
+  - Offer some value and propositions
+    - Discount or a free ebook coupon code
+
+
+>>>>>>> d2a8e3a4a527f29bdbd43d6586739819a832c9e3
