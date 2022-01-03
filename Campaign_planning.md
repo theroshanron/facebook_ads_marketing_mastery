@@ -148,3 +148,10 @@
 - For small audience, keep frequency cap to 7-8 per month
 - At times, increase the percentage of lookalike audiences
 
+#### Order of importance for optimization
+- Identify the target audience for optimization
+- Build the custom audience of interested people and action takers
+- Find what creative is working with target market and optimize the creative results
+- Test and tweak ad copywriting to further tune the ads 
+- Even after finding the winning assets, keep optimizing with the split audience 
+  
