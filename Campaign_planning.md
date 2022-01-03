@@ -166,3 +166,24 @@
 - Always create the next best content    
 
 ### Ad creatives
+- What makes the product special and unique selling proposition
+- Sell the solution to customer's problem
+- Add call to action such as to learn more, "click on the button below" 
+- Split test a traffic objective to blog post listing the top XYZ 
+- Get audience to send a micro transaction like comment on your ad post 
+- Answer the objections audience may have for MOF audience
+  - Lifetime access 
+  - Fear of missing out with Ad creatives
+  - Use testimonials or money back guarantee
+  - Build trust, provide value and nurture the relationship
+    - Share the narrative story 
+    - Share testimonials 
+    - Why people should care about your brand  
+- User generated content with video testimonials and carousel 
+  - Increase credibility
+  - Create Ads relevant to the audience you are retargeting
+  - Exclude the custom audience who already made the purchase
+  - Unboxing video of the products
+  - Written reviews into a 30 second slideshow 
+  - Check out facebook.com/snow
+
