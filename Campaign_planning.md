@@ -66,7 +66,7 @@
     - Answering questions are like small transactions which gets them saying they might need to 
     - Create win win viral contest and actually give freeway and avoid freeways like ipad giveaway which only attracts the freebies
       - Ask the participant to share it on the social media to win the t-shirts, custom socks, caps or mobile cover
-=======
+
   
 ## Middle of the funnel
 - 50% of the daily budget
@@ -77,13 +77,32 @@
 
 ### How to allocate the budget for MOF
 - Create conversion campaign and create 3 Ad sets 
-- Consist of ads driving people to salespage
+  - Targeting a single TOF custom audience
+- Consist of ads driving people to sales page
 - Exclude the past Buyers
 - Create another conversion with 7 Ad sets
   - 1% Lookalike audiences of the TOF contents
   - Cold audience as they might make impulse purchase
+    - based on single interest, demographic, gender, age, location or behavior
   - Offer some value and propositions
     - Discount or a free ebook coupon code
 
 
->>>>>>> d2a8e3a4a527f29bdbd43d6586739819a832c9e3
+## Bottom of the Funnel
+- 20% of the daily ad budget
+- Convert and close the sale on the warm audiences
+- All ad campaigns have conversion objectives and purchase event goal campaign 
+- Exclude audience who already purchased
+- Retarget the audience such as custom audience of user who clicked on events like "AddtoCart" or "Initiate checkout"
+  
+### How to allocate the budget for BOF
+- Target the warmest audience and enable campaign budget optimization
+  - Video views 75%
+  - Customer lists(email leads)
+  - Add to cart
+  - Initiate checkout
+  - Website visitors by time spent top 25%
+  - Facebook page custom audience like people who engaged with post or Ads
+  - Eliminate extra stuff like redirection to a different link 
+  - Ad should be laser focused on what result you want(i.r traffic to a blog post, conversion, product page, email sign_up or lead capture)
+
