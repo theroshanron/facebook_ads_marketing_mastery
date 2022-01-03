@@ -128,3 +128,12 @@
 - Create another custom audience of users who have made more than one purchase or over a certain amount.
   - Call them VIP audience and target them with "VIP ads" and offer exclusive products
 - Once the VIP Custom Audiences grow to 1000+ in size, create Lookalike Audience of them 
+
+### Target Biggest Fans 
+- Use Affiliate marketing to ask the user who loves your product to market your product with their content on their channel
+
+### Use Conversion Campaigns
+- Conversion campaigns are the highest CPM user to marker to on Facebook
+- TOF Conversion campaign with conversion goal of "View content" 
+- MOF Conversion campaign with conversion goal of "Add to Cart"
+- BOF Conversion campaign with conversion goal of "Purchase"
