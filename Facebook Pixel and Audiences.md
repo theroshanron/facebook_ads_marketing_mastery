@@ -52,6 +52,10 @@
 - Select the lookalike audience source 
 - Select the location where to look for the audience
 - Select audience size up to 1% 
-- 
   
-  ### 
+  
+### Targeting people who already engaged with Facebook Page or Instagram
+- To make more ad revenue facebook organic reach keeps dropping hence you need to create post engagement or create organic audience to re-engage with the followers 
+- Create post engagement ads and move the engaged fans to sales funnel for upsell 
+- Promote new services and products to create lifetime customers
+- Drive engaged fans from Facebook to instagram and vice versa to grow the following on both platforms 
