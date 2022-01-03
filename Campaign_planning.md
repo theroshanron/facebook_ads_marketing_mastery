@@ -60,3 +60,16 @@
 - Conversion objective with purchase event goal to sell or collect leads
 - To build the custom audience with most likely to convert users as well
 - Get at least 1000 users and then start retargeting them
+- Enable Campaign budget optimization
+
+### How to allocate the budget for MOF
+- Create conversion campaign and create 3 Ad sets 
+- Consist of ads driving people to salespage
+- Exclude the past Buyers
+- Create another conversion with 7 Ad sets
+  - 1% Lookalike audiences of the TOF contents
+  - Cold audience as they might make impulse purchase
+  - Offer some value and propositions
+    - Discount or a free ebook coupon code
+
+
