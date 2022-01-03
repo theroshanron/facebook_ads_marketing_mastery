@@ -75,4 +75,7 @@
   - Opened but did not submit the form 
   - Open and submit the form
 
+### Special Ad audience 
+- Available for special Ads category such as employment, credit, housing ads, etc
+
 
