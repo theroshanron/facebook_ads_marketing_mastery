@@ -28,6 +28,8 @@
     - Enables you to reach the warmest prospects
   - Custom audience updates automatically based on the days interval we select for the custom audience
   - Naming of custom audience is important to understand what audience we are targeting 
+  - If the user visits website frequently, he could be the most warmest audience
+  - Create the custom audience based on website aggregated value
 
 #### Custom Audience Creation Guide ---------------
 - All website visitors
@@ -40,4 +42,16 @@
 - Specific webpages like product page, landing page, sales page and thank you
 - List by email subscribers and buyers
 - Target past customers for upsells or future sells
+- Customer list can also be used for the custom audience as these are the audience who already made the purchase
+- Add all the relevant identifiers 
+  - First name, last name, mobile, email, town, post code, county / regions
+  - Upload csv file and name the audience file
+  - Customer list can be updated with the edit button in the audience and add customer options
+
+### Create value based Lookalike audience 
+- Select the lookalike audience source 
+- Select the location where to look for the audience
+- Select audience size up to 1% 
 - 
+  
+  ### 
