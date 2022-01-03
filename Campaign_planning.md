@@ -155,3 +155,14 @@
 - Test and tweak ad copywriting to further tune the ads 
 - Even after finding the winning assets, keep optimizing with the split audience 
   
+### Dynamic creative - TOF, MOF, BOF
+- Always try to test 5 Ad creative variables
+  - images, videos, primary text, headline etc.
+  - Create single ad set and then enable dynamic creative max out the media and variables 
+    - Copy this Ad set to 9-29 number of times, you won't have to add ads all the time 
+- Go the breakdown and check by dynamic creative assets
+- Use winning dynamic creative assets in your new campaign
+- Then go ahead and find the best performing audience 
+- Always create the next best content    
+
+### Ad creatives
