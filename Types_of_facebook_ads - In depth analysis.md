@@ -1,0 +1,12 @@
+## Lead generation
+- Set campaign objective as lead generation
+- Create Lead form
+  - Sharing options to open 
+  - Background image and headline in the lead form 
+  - List or paragraph to add your value and proposition
+    - Bullet list works better 
+  - Add and select the order of questions 
+  - Add terms and conditions or privacy policy to prevent any legal issues 
+  - After submit, thank you information
+  - Split test ad creatives 
+  - Use giveaway for better lead generation using form like e-book, hoodies etc.
