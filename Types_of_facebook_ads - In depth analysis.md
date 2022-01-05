@@ -73,10 +73,20 @@
 - Add offer expiration date
 - Add online or offline store offer 
 - Add call to action button
+  - You can target mobile device for this CTA and reach as well as traffic objective
+  - Use inbound call tracking software for better tracking on how many calls were made like Invoca
+  - Make sure to schedule the ads to run during business hours
 - Try to use post engagement campaign so that this offer reached to most of the people 
 
 #### Facebook Offer Ads
 - Enable it in Facebook Ad set
 - Gives you option to add type of the promo code
 - Total offers available
+
+## Offline events
+- Offline sales data from POS which cannot be tracked with facebook can be trackable with event sets
+- Create offline event and link with the ad account 
+- Check the template for identifiers and upload the data with max identifiers so facebook can match more data 
+- We can create custom audience with the offline event set data and create a lookalike audience as well 
+- Enable offline event set tracking before publishing the Ad
   
