@@ -63,4 +63,20 @@
   - Select the store set and add links
   - Targeting radius should be around 10 miles
   - Split ad with or without offers 
-  - At Ad level, select main page or local page and
+  - At Ad level, select main page or local page 
+
+### Facebook offers
+- Helps business promote discounts that customers can redeem online or in stores 
+- Facebook.com/page_name/offers 
+- Create Offer in percentage or freebies
+- Add value proposition which tells the potential customer why they should click on ad to learn more
+- Add offer expiration date
+- Add online or offline store offer 
+- Add call to action button
+- Try to use post engagement campaign so that this offer reached to most of the people 
+
+#### Facebook Offer Ads
+- Enable it in Facebook Ad set
+- Gives you option to add type of the promo code
+- Total offers available
+  
