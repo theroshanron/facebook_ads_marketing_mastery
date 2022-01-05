@@ -21,3 +21,19 @@
 - Native aspects of lead generation campaigns keep people on the social media 
 - Landing page conversions campaign might nor perform better in this case as user doesn't want to leave their social while they are engaged on the platforms 
   
+## Lead Ad Generation Advantages 
+- No direct website traffic as not collecting anything from Facebook pixel installed on the website
+  - Won't be able to build custom audience to retarget later with facebook ads
+- Lead generation ads typically result in low quality ads
+- The more relevant field you add and collect, the more you weed out the unserious people
+  - Increases the cost per lead
+- Leads can be retrieved by the following methods :
+  - Ads manager, click on result and leads link to download the csv file
+  - Facebook.com/page/leads_center can also act as CRM and allows to assign, add notes etc.
+  - connect to CRM 
+    - Publishing tools 
+    - Leads setups 
+    - You can use Zapier account to connect custom CRM account
+    - Mailchimp - Connect via Facebook App
+- Leads are available in facebook.com for 90 days 
+- Add a sense of urgency and exclusive
