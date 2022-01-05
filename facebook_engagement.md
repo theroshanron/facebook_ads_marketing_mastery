@@ -31,4 +31,17 @@
 - 20% should be other facebook page posts, articles, content and YouTube videos
 - 10% can be promotional 
   
-- 
+## How to create engaging content?
+- Share how you really feel about a blog post or photo 
+- Ask questions and sound engaging to ignite conversation with page followers or audience
+- Don't sound like cheesy infomercial and use "I" in ad copy
+- Use #FanFriday or add contest to make it more engaging and
+- Respond to Fans
+- Use inbox and notifications to see regular updates 
+- Add great cool and curiosity generating images 
+  - Brand your image with the logo or watermark 
+- @latermedia is a great faecbook page for the example to check engaging photo 
+- Use videos whenever possible to grab their attention and algorithm also favors the video content
+- Monitor your content with facebook page insights 
+  - Helps to check the timings and what type of post are performing better
+  
