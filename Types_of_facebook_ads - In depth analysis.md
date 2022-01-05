@@ -43,3 +43,14 @@
     - Mailchimp - Connect via Facebook App
 - Leads are available in facebook.com for 90 days 
 - Add a sense of urgency and exclusive
+
+## Local Business Ads + Store Traffic 
+- Facebook's local business promotions are a great way to quickly and easily find a new group of customers who are nearby your business
+- Ad location of your business in facebook pages 
+- Use reach or store traffic campaign 
+- Select location nearby your store in ad sets
+- In Reach campaign select location
+  - City, demographic and detailed targeting
+  - Ad promo or claim ad as a value and proposition
+  - 1 mile radius of the business
+- Add frequency cap
