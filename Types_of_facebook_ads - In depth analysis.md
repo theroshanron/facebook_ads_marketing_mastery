@@ -90,3 +90,24 @@
 - We can create custom audience with the offline event set data and create a lookalike audience as well 
 - Enable offline event set tracking before publishing the Ad
   
+## Message Ads
+- Message open rates are almost 100% as compared to email rates
+- Ask questions about products, services, feedback and services using messenger 
+- Opens in default direct message using messenger, instagram or WhatsApp
+- Include the coupon code and personalized message
+- Use Campaign Objective Messages for these Ads
+  - Add destination in Ad sets like messenger, instagram or WhatsApp
+  - Select the audience for these Ads
+  - Click to messenger send people from ads in from anywhere to messenger conversations
+  - Sponsored messages is used for people who have already contacted you with over messenger at one time. It's good for retargeting the potential customers
+  - Select optimization and delivery, with a sequences of questions
+  - Use Message Templates with start conversations
+    - Think with the mind of customers
+    - Add personalized questions and answers  with frequently asked questions
+    - Though people appreciate the actual human answer compared to bots
+    - Use Split Ad test to target the messenger and check which one performs the best
+    - Split test targeting at the ad set level with cold audience and warm audience
+    - Split test with images, videos and carousel at the ad level 
+      - Use minimum of 1000 impression to check the test result about winning and losing ads 
+    - Use automated responses for greetings, location, website, contact details and service time duration
+
