@@ -53,4 +53,14 @@
   - City, demographic and detailed targeting
   - Ad promo or claim ad as a value and proposition
   - 1 mile radius of the business
-- Add frequency cap
+  - Add frequency cap
+  - Use call to action button such as get directions or call now
+  - Call now is helpful if you want user to make reservation or schedule appointment
+  - Use Carousel format ad to include Map card
+- In Store traffic campaign, 
+  - Add stores in facebook business locations 
+  - You can clone the main page and add varying locations
+  - Select the store set and add links
+  - Targeting radius should be around 10 miles
+  - Split ad with or without offers 
+  - At Ad level, select main page or local page and
