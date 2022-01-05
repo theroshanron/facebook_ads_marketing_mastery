@@ -19,4 +19,16 @@
 - Upload video to facebook instead of adding youtube link 
 - Don't use engagement bait or click bait
 - Schedule yours posts by checking the page insights to see active users 
+
+## Facebook engagement
+- The more people take action on your post, more chance of it to appears on feed
+- Facebook organic reach is getting super low which is less than 10% 
+- Use Post engagement ads to build audience and increase engagement
+- Use People who already like your page as they are the warmest audience 
+- Use the existing post or create a new post with creative studio 
+- Posts can be boost as well instead of using the Ads manager campaign not recommended though
+- Don't over promote as post should must add 70% value and brand recognition
+- 20% should be other facebook page posts, articles, content and YouTube videos
+- 10% can be promotional 
+  
 - 
