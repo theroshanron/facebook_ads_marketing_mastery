@@ -18,8 +18,14 @@
 
 ## Lead Generation Ads vs Landing page conversion Ads 
 - Facebook offers auto fill up and makes quick for the user to fill the form 
+  - Low quality
 - Native aspects of lead generation campaigns keep people on the social media 
 - Landing page conversions campaign might nor perform better in this case as user doesn't want to leave their social while they are engaged on the platforms 
+- With split test, sometimes there are 50-50 results
+- Conversion ads makes user leave the facebook and drive to the landing page which could be expensive  
+  - Higher quality lead 
+  - Can be used when we have lots of information to share
+  - Try to minimize the hole and get to the goal on landing page 
   
 ## Lead Ad Generation Advantages 
 - No direct website traffic as not collecting anything from Facebook pixel installed on the website
