@@ -111,3 +111,13 @@
       - Use minimum of 1000 impression to check the test result about winning and losing ads 
     - Use automated responses for greetings, location, website, contact details and service time duration
 
+## Instagram Ads on Facebook
+- https://business.instagram.com/advertising
+- Create ads from facebook ads manager 
+  - New campaign and select the objectives
+  - At the Ad set level select the placement instagram under manual placement and devices
+  - Instagram feed, stories can be used to display Ads 
+  - Select Instagram account under identity 
+  - Ad creatives or existing post for boost or send traffic 
+  
+  
