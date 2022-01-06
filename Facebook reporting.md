@@ -30,3 +30,11 @@
 - Compare with the competitors page to see the result between our top post and theirs to see what posts are getting the most engagement
 - Get into the deeper dive using creative studio insights using top navigation bar for both facebook and instagram
 
+## Audience Insights
+- Learn more about the potential target audience and who to target 
+- Helps to build audiences to target when split testing on top of funnel ad sets 
+- Available in top left menu under audience and then insights
+- Check for the potential audience based on interest, language and age
+- Split test with interest and top 5-10 pages using Ad sets
+- Retarget the warm audiences
+  
