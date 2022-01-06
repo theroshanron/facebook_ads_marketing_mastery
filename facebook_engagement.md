@@ -84,6 +84,7 @@
   - What is getting the most Views
   - What topics are the most relevant to the audience
   - How long are your best performing videos
+  - Always split test the headlines, thumbnails and CTA
   
 ## Great use of Facebook Ads 
 - To find new clients with traffic objective campaign where creatives have carousel and one video in it
@@ -97,5 +98,14 @@
     - 3 seconds of video - See if audience let the video play for 3 seconds
     - 10 seconds of video - An indication that audience was at lease hooked by the intro
     - Average video time and audience retention 
+
+## Important guidelines
+- Upload the video directly to facebook and do not add YouTube video links 
+  - Facebook favors the native content which keeps the user on Facebook
+- Establish relevance based on the interest and should be entertaining
+- Brand your videos with the logo in the corner.
+- State call to action middle and end of the video 
+
+
   
   
