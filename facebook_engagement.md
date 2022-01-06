@@ -44,4 +44,20 @@
 - Use videos whenever possible to grab their attention and algorithm also favors the video content
 - Monitor your content with facebook page insights 
   - Helps to check the timings and what type of post are performing better
+- Check which posts is performing better in first 24-48 hours
+- Use unpublished post with multiple variations to check which type of post better for you to build clout
+- Instead of select post use create post at Ad creative level of the campaign 
+  - Create the post and save unpublished post
+  - Use it with your specific audience for testing as it only will appear as Ads to your audience
+
+## Facebook Videos
+- More appealing to mobile users and higher engagement rates
+- Over 3/4th of internet traffic is video
+- It's almost everywhere live stream, cover, profile pic, IGTV, shorts and stories
+- facebook.com/watch
+- Add video title when uploading and focus on the title which gets user attention
+  - Use Keywords and brand name
+-  Include 3-5 keywords in the description to appear in Google search
+-  Use a great thumbnails with value and proposition
+  
   
