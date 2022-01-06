@@ -124,6 +124,13 @@
 - User watches webinar video  / Completes Book Download and gets to Thank You page confirming email sequences 
 - 2% Conversion into sales 
 - Select Video engagements in Ad mangers pays to check the stats
+- Create the custom audience based on video and people who watched video for more than 75%
+  - Retarget this warm audience via a Conversion objective campaign to close the sale instead of mailing the audience
+  
+## Video views Warming Funnel
+- At top of the funnel, offer a tutorial video to broad audience in specific city (Cold Audience)
+- At middle of the funnel, offer an advanced video tutorial as a value to TOF video views 75% custom audience (Warm Audience)
+- At bottom of the funnel, conversion objective ad with a strategy call where you offer service and target 75% of MOF custom audience (Warm Audience)
   
   
   
