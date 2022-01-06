@@ -37,4 +37,20 @@
 - Check for the potential audience based on interest, language and age
 - Split test with interest and top 5-10 pages using Ad sets
 - Retarget the warm audiences
+
+## Social media marketing
+- Helpful to improve SEO performance
+- Search engine optimization is the process of affecting the visibility of a website or a web page in search engines natural or organic search results. 
+- Increases brand recognition
+- Improves the brand loyalty
+- More opportunities to convert
+- Higher conversions rates
+- Higher Brand Authority
+- Increased inbound traffic 
+- Decreases the marketing cost 
+- Better search engine rankings
+- Richer customer experience
+- Improved customer Insights
+
+
   
