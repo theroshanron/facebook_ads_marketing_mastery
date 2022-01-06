@@ -59,5 +59,17 @@
   - Use Keywords and brand name
 -  Include 3-5 keywords in the description to appear in Google search
 -  Use a great thumbnails with value and proposition
+-  Use auto generated captions and enable while post
+  
+## Different videos and objectives
+- Interactive video to involve fans in the current campaign to boost engagement 
+- Promote the [product in a creative way to drive conversions
+  - Useful for retargeting later via Video view custom Audiences
+- Facebook live can be used to create awareness and engagement 
+- Short videos can help grabbing attention in the early stages 
+- Take content from the blog post and use it to create a simple slideshow video 
+- As per the algorithm, longer video gets more visibility in the news feed.
+- Best practice is 30 seconds or shorter and loop continuously
+
   
   
