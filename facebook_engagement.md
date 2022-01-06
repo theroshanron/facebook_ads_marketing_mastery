@@ -106,6 +106,24 @@
 - Brand your videos with the logo in the corner.
 - State call to action middle and end of the video 
 
-
+## Video views Ad
+- Use Video views campaign objective if you want more views on your video, seminar
+  - Almost all the objective allows video creative at Ad level but each of them works based on objective 
+- Checkout Harmon Brothers
+- Add text overlay on final video edit with captions in the black bar space above / below 
+- Get to know the audience based on user who are interested in the video
+- Target lookalike and detailed targeting 
+- Test 15 seconds of video
+- Add an attracting Thumbnail 
+  
+## Webinars
+- To use ads to drive users to landing page describing the benefits of the webinar and provide email capture form to sign up for the webinar 
+- Webinar is engaging online video that provide value for nearly all of the video and closes with an offering of the product 
+- Facebook Ad - 2% CTR 
+- Landing Page 20% + Sign up
+- User watches webinar video  / Completes Book Download and gets to Thank You page confirming email sequences 
+- 2% Conversion into sales 
+- Select Video engagements in Ad mangers pays to check the stats
+  
   
   
