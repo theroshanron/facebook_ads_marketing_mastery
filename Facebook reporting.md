@@ -15,3 +15,11 @@
     - Update the creatives
 
 ## How to scale Facebook Ads
+- Split test many ads with 5-10 USD daily budget 
+- Shut down the loosing ads and increase the budget for winning ads based on ad relevance
+- Do not edit the winning ad instead scale the budget 
+  - Or duplicate the ad and then edit the variables
+- Create higher % Lookalike audiences once we have custom audience source of more than 10000
+- Target the winning placement by checking which placement is performing in breakdown menu
+- Manual bidding for the winning conversion ads
+  
