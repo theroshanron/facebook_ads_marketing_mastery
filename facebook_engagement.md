@@ -71,5 +71,14 @@
 - As per the algorithm, longer video gets more visibility in the news feed.
 - Best practice is 30 seconds or shorter and loop continuously
 
+## Best practices to upload videos
+- Know the end goal and what you want to achieve before creating the video 
+- Add relevant call to action 
+- Add video caption which supports the video content 
+- Play on the customer's emotions 
+- First 5 seconds should be attention grabbing
+- Create square videos 
+- Create videos which shows the action and need not about the product 
+- Tell a story with the video and use high quality video
   
   
