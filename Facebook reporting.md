@@ -52,5 +52,16 @@
 - Richer customer experience
 - Improved customer Insights
 
-
+## What content should we share?
+- Test what content gets likes, shares, comments 
+- Test memes, quotes or e_cards
+- Funny = sharable
+- Include your website link and add branding logo of yours
+- Try to post with less than 80 characters 
+- 70% of content should add value and build brand recognition
+- 20% of content could be other peoples ideas, articles, content and YouTube videos, facebook posts, retweets etc.
+- 10% of content can be promotional including coupon / discount codes, new items etc.
+- Commit to posting as much as possible
+- Engage with the followers
+  - Build the community and relationships with the promotional talk
   
