@@ -80,5 +80,22 @@
 - Create square videos 
 - Create videos which shows the action and need not about the product 
 - Tell a story with the video and use high quality video
+- Start comparing the performance of the video and dive deeper into details on how audience responded it
+  - What is getting the most Views
+  - What topics are the most relevant to the audience
+  - How long are your best performing videos
+  
+## Great use of Facebook Ads 
+- To find new clients with traffic objective campaign where creatives have carousel and one video in it
+- Can be a better use for testimonials in ads about the success 
+- Add call to action so that use can be convert into conversions
+- Use automatic placement unless you actually know who you exactly want to target
+- Use Facebook videos creation for slideshow video and add images
+  - Set the order of images 
+  - Check insights in creator studio page check the performance of videos such as top videos, time spent on a video 
+    - Minutes viewed to check the average watch time 
+    - 3 seconds of video - See if audience let the video play for 3 seconds
+    - 10 seconds of video - An indication that audience was at lease hooked by the intro
+    - Average video time and audience retention 
   
   
