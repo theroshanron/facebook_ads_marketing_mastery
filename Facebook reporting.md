@@ -23,3 +23,10 @@
 - Target the winning placement by checking which placement is performing in breakdown menu
 - Manual bidding for the winning conversion ads
   
+## Facebook Insights
+- Insights about the page based on demographics, engagement and time 
+- Check for organic and paid results 
+- Look at the post engagement reach
+- Compare with the competitors page to see the result between our top post and theirs to see what posts are getting the most engagement
+- Get into the deeper dive using creative studio insights using top navigation bar for both facebook and instagram
+
