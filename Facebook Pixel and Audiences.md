@@ -2,10 +2,15 @@
 - Click on Facebook Pixel under Events Manager 
 - Select the Ad account to create pixels for
 - Name the pixel and add website URL 
+- Make sure pixel name is relevant for easy tracking
   - Set up the pixel with Wordpress
     - Download the plugin needed to install the Facebook pixel 
     - Go to wordpress, upload zip plugin file and then install it
+    - Activate the Plugin and go to setting to verify
     - Note down the Pixel ID and advanced setting for facebook audience building(Advanced Matching)
+    - Test the pixel installation by sending test traffic which will open the link and then redirect backs to facebook 
+  - We can use Facebook Pixel event setup tool to track the events of the page like button, lead generation, add to cart 
+    - Select the button by hovering mouse and click on select the event
   - Set up Manually 
     - Ad the code to header section of the website code
     - Use Facebook pixel installation setup
