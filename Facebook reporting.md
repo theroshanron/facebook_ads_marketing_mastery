@@ -65,3 +65,8 @@
 - Engage with the followers
   - Build the community and relationships with the promotional talk
   
+## Social Media management tools
+- Use apps like IFTTT, Everypost or Buffer 
+- Mailchimp
+- Instagram can be used to post and select other social media where same post can be shared
+  
