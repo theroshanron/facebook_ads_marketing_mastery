@@ -63,3 +63,13 @@
 - Verify the domain by adding dns txt entry to the dns record
 - Update html file provided by facebook to the web directory 
 - Add a meta tag to the head section of the domain web page
+- Review pixels
+
+## Install Facebook Conversions API
+- Install conversion API with facebook sdk scripts
+- Via event manager tokens
+
+## Tips and strategy
+- As usual focus would be on getting the maximum result / return on your Ad spend 
+  - Objective must be determined for the campaign whether you want traffic, awareness , video views or conversion
+  - 
