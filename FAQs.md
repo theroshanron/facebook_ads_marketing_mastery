@@ -67,9 +67,20 @@
 
 ## Install Facebook Conversions API
 - Install conversion API with facebook sdk scripts
+  - https://developers.facebook.com/docs/marketing-api/conversions-api/
 - Via event manager tokens
 
 ## Tips and strategy
 - As usual focus would be on getting the maximum result / return on your Ad spend 
   - Objective must be determined for the campaign whether you want traffic, awareness , video views or conversion
-  - 
+  - Facebook optimized the audience based on the campaign objectives 
+  - Make sure to use detailed targeting effectively and narrow it down with using exclude as well
+  - More we narrow it down, audience size decreases this means we are targeting relevant audience 
+  - Target the audience who must be engaging with the category of the product / services that you are selling 
+  - Check insights of the competitors page and ads
+  - Smaller the add potential reach, higher the cost per action 
+    - You will get better result and narrowed down to the requirement
+  - Use automatic placement unless the product / service makes sense to only specific placement and you are aware of it 
+  - Use attention grabbing colors in the creatives
+  - Split test images, title headlines, description, videos, audience, detail targeting at Ad set and ad creative levels
+
