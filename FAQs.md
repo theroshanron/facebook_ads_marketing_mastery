@@ -59,3 +59,7 @@
 - Host interviews, broadcast events or share behind the scenes look at your business 
 - Use polls to understand your users 
   
+## Brand safety
+- Verify the domain by adding dns txt entry to the dns record
+- Update html file provided by facebook to the web directory 
+- Add a meta tag to the head section of the domain web page
