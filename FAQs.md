@@ -49,3 +49,13 @@
   - The insights can be checked under the Ads manager
 - Publish all the Ad sets with split budget 
   
+## How to use Facebook Live 
+- Best way to interact and increase engagement with the users
+- Share announcement and take feedbacks
+- Answer queries 
+- Add title and description about your Facebook live so the audiences know what it is about 
+- The video gets automatically published to your Facebook page 
+- It break downs barriers and creates a connection that goes beyond the traditional marketing 
+- Host interviews, broadcast events or share behind the scenes look at your business 
+- Use polls to understand your users 
+  
