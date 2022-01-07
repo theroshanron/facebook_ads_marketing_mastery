@@ -88,5 +88,18 @@
     - We can exclude a specific OS as well to make it more specific
   - You can track button click with facebook event tool by selecting the event targeting and event setup tool combination
   
-  
+  ## Advanced Instagram Ads 
+  - In todays time, instagram ads have better returns with certain demographics and ages
+  - We need to have instagram ad account for ads 
+  - Any of the facebook campaign objective can be used for instagram ads as well 
+  - Performs better with placement targeting mobile and tablet platforms
+  - Split test various ad sets with videos and images 
+    - Video has the higher engagement, click through rates
+  - Ask questions in your captions to create curiosity and build engagement
+  - Include a face in videos whenever possible to promote anything with ads
+  - Include A call to action button and tell user what you want them to do, people like to participate
+    - Tap on this post or link to get the offer now
+  - Promote your the most best content
+
+
 
