@@ -83,4 +83,10 @@
   - Use automatic placement unless the product / service makes sense to only specific placement and you are aware of it 
   - Use attention grabbing colors in the creatives
   - Split test images, title headlines, description, videos, audience, detail targeting at Ad set and ad creative levels
+  - Use detailed targeting to target specific operating system or device 
+    - Use behavior > digital activities > Operating system Used
+    - We can exclude a specific OS as well to make it more specific
+  - You can track button click with facebook event tool by selecting the event targeting and event setup tool combination
+  
+  
 
