@@ -18,6 +18,7 @@
   - Create multiple Ad sets and target multiple audiences for the testing at top of the level Funnel
   - Scale up budget for winning ads by 20-25% per week
   - Test more videos with subtitles and include audience from instagram as well 
+  - Social clout attracts more people
 
   ## Budget Optimization
   - Toggle on campaign budget optimization at the time of campaign creation
@@ -41,4 +42,10 @@
   - Add detailed targeting 
     - Engaged shoppers 
     - Online shoppers
+- Split one variable at a time to identify which Ad sets is performing well 
+- Make Ad sets name based on the variable changed in it so that it's easy to track
+- Add instagram account as well under the identity if we are targeting instagram audience
+- Keep tracking frequently to check which Ad sets are performing well 
+  - The insights can be checked under the Ads manager
+- Publish all the Ad sets with split budget 
   
