@@ -38,3 +38,14 @@
 - Most known for in the description
 - Use google.com/trends and add any post using the keywords from the trend
   
+## How to get Access to a Client's Facebook Page and Ad Account
+- The client needs a facebook business manager account too
+- Request them to Give a partner access assets in the business manager
+  - Provide them your business manager ID from the business manager info page
+- Have them select the pages 
+  - Select the page and get the at least create ads account by adding you to the facebook page manager in left sidebar of business manager
+  - Repeat the same steps for Ad account, Pixel, Instagram account from the left sidebar
+  - Once done, click on save changes 
+- Go to business settings, click on request and add people you want to add to these business assets 
+- 
+- You can use a screen sharing software to connect with the client and help them with the setup 
