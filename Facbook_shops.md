@@ -35,4 +35,15 @@
           - MicroData is structure mark up data 
         - Use Facebook Google sheet template to update the data of catalog so that it matches the guideline
           -  ID, Title, Description, Availability, Inventory, Condition, Price, Link, Image link
-   - 
+          -  Paste the shareable link and schedule the updates to check inventory to be updated based on Google sheet
+          -  Name the data source and upload 
+          -  Use Request update now button and review the product button in the data source
+     - Product ID = Content ID
+   - Helpful in enabling Dynamic ads
+
+### Product sets
+- When creating dynamic ads to re_market the products. we need to select the products we want to promote via Product set
+- Use Create set and Filters to check types of products and select the products to promote
+- Name the product set
+- Try to create product set from each category
+  
