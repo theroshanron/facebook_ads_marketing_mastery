@@ -11,4 +11,28 @@
   - Use checkout with instagram or facebook
   - Select the sales channel and add business email as well as website link 
   - Add shipping address and return
+  - Once it is setup, add items under the assets on shop overview image
+  - You can use shop as CTA button on facebook page
   
+### Setup Payout
+- Add payment method to payout
+- Bank account 
+  
+### How to create a catalog
+- Tools to manage catalogs and inventory is catalog manager
+- Using FB catalog we can connect to different channels to show people items like on instagram shopping, dynamic ads, facebook shops
+- business.facebook.com/commerce
+  - Add catalog
+  - Select the category 
+    - Product
+    - Upload or connect to current e_commerce platforms
+      - Shopify
+      - BigCommerce
+      - ChannelAdvisor
+    - Select upload and name the catalog before creating 
+      - Add items
+        - Use data source and add items manually, upload using Google sheet or use MicroData tags to upload  via Facebook pixel
+          - MicroData is structure mark up data 
+        - Use Facebook Google sheet template to update the data of catalog so that it matches the guideline
+          -  ID, Title, Description, Availability, Inventory, Condition, Price, Link, Image link
+   - 
