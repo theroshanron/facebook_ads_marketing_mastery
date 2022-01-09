@@ -63,3 +63,32 @@
     - You can use edit option on old posts to tag products 
     - Tap on the product in the photo to tag and search for the product in catalog 
     - User will get options to view products on the posts 
+
+### How to setup Dynamic ads
+- FB dynamic ads automatically show the right products to people who have expressed interest on the website or app
+- Helpful in marketing to the right people for each product in catalog
+- Requires Facebook catalog to be created and Facebook pixel installed on eCommerce website
+- Connect to tracking status
+  - Green means Facebook pixel is receiving content IDs for items people are interacting on th Website
+  - Yellow means pixel is not receiving content IDs for items people are interacting and there are issues to be fixed
+- Items need to have content ID that matches with content ID in the catalog for
+- Website must include below FB pixel events to run Dynamic ads
+  - ViewContent
+  - AddtoCart
+  - Purchase
+- Use Catalog sales campaign objective
+  - Buying type - Auction 
+  - Select the Catalog for ads to automatically show items from the catalog
+  - At Ad set level select the product set which you want to promote 
+  - For Audience, retarget the people who are already interacted with the product 
+    - You can also create a lookalike audience for the interacted audience 
+  - With Retargeting you can select from the below options
+    - Viewed or Added to cart but not purchased
+    - Upsell products
+    - Cross-sell products
+    - Custom combinations
+  - !4 days window for retargeting the audience 
+    - Split test from 7 days to 14 days for retargeting the audience
+  - At the Ad level, make sure to enable the dynamic formats options
+  - Use catalog field from placeholder to include in the live ad 
+  
