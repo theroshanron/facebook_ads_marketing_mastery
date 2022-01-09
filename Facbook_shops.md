@@ -47,3 +47,19 @@
 - Name the product set
 - Try to create product set from each category
   
+### How to setup Instagram shopping 
+- Tag products in posts and stories for people to discover the products
+- When user tap on product tag, they reach to product description page 
+- Select the shop name and add sales channel 
+  - Select the instagram account and make sure it is registered as professional account 
+    - Professional account helps to grow business with instagram shopping
+    - Settings > Business > Sign up for shopping option to submit it for the review 
+    - Select catalog name
+    - Once done, we can tag products in the instagram posts and stories
+    - Use link icon in the top menu of stories
+      - Select + product option to tag product
+      - Views will be redirected to the product page
+    - Tag products option on post sharing allows to add links 
+    - You can use edit option on old posts to tag products 
+    - Tap on the product in the photo to tag and search for the product in catalog 
+    - User will get options to view products on the posts 
